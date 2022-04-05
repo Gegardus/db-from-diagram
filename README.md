@@ -39,7 +39,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgements
 
-- A great thanks to My coding partners, morning session team, and standup team Partners for their contribution.
+- A great thanks to my coding partners, morning session team, and standup team partners for their contribution.
 
 - The author highly appreciates the help in the project from all the participants of this week's program - my coding partners, morning session team, and standup team partners - for their contribution.
 
