@@ -25,6 +25,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - GitHub: [@tresorsawasawa](https://github.com/tresorsawasawa)
 - Twitter: [@tresorsawasawa](https://twitter.com/TresorSawasawa)
+- LinkedIn: [Trésor Sawasawa](https://www.linkedin.com/in/tresor-sawasawa/)
 
 ## 🤝 Contributing
 
