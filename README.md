@@ -20,6 +20,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - GitHub: [@githubhandle](https://github.com/Gegardus)
 - Twitter: [@twitterhandle](https://twitter.com/Gegardus)
+  
+👤 **Trésor Sawasawa**
+
+- GitHub: [@tresorsawasawa](https://github.com/tresorsawasawa)
+- Twitter: [@tresorsawasawa](https://twitter.com/TresorSawasawa)
 
 ## 🤝 Contributing
 
